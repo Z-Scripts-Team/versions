@@ -1,1 +1,1 @@
-# versions
+# Versions repo for Z-Scripts resources
