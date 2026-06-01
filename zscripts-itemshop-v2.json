@@ -3,5 +3,12 @@
         "bugfixes": [],
         "update": [],
         "locales": []
+    },
+    "1.1.0": {
+        "bugfixes": [],
+        "update": [
+            "Add casebattle",
+        ],
+        "locales": []
     }
 }
